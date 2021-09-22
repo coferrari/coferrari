@@ -11,7 +11,7 @@ const coferrari = {
     softSkills: ["creativity", "problem solving", "collaborative", "adaptability", "commitment", "communication"],
     design: ["Photoshop", "Illustrator", "Ligthroom"],
     projects: ["Countries", "La Catalina"],
-    currentlyWorkingOn: ["an e-commerce for Henry's Bootcamp graduation project"],
+    currentlyWorkingOn: "an e-commerce for Henry's Bootcamp graduation project",
     hobbies: ["travelling", "pilates", "photography"]
 };
 ```
