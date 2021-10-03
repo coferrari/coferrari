@@ -40,6 +40,7 @@ const coferrari = {
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coferrari&show_icons=true&locale=en&layout=compact" alt="coferrari" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coferrari&show_icons=true&locale=en" alt="coferrari" /></p>
 
 <!--
