@@ -1,5 +1,6 @@
-### Hi there, I'm Constanza 👋🏼
-I'm a full stack developer in JavaScript. Here is a little more about me:
+### 
+<h1 align="center">Hi there, I'm Constanza 👋🏼 </h1>
+<h3 align="center">I'm a full stack developer in JavaScript. Here is a little more about me:</h3>
 
 ```javascript 
 const coferrari = {
