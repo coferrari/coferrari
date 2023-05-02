@@ -13,7 +13,7 @@ const coferrari = {
     design: ["Photoshop", "Illustrator", "Ligthroom"],
     projects: ["Countries", "La Catalina", "OLEA e-commerce"],
     currentlyLearning: "React Native",
-    hobbies: ["travelling", "pilates", "photography"]
+    hobbies: ["travelling", "pilates", "photography", "surfing"]
 };
 ```
 
