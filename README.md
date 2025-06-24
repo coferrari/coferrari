@@ -1,52 +1,38 @@
-### 
-<h1 align="center">Hi there, I'm Constanza 👋🏼 </h1>
-<h3 align="center">I'm a full stack developer in JavaScript. Here is a little more about me:</h3>
+# Hi, I'm Constanza Ferrari 👋
 
-```javascript 
-const coferrari = {
-    stack: {
-        frontEnd: ["JavaScript", "React.js", "Redux", "HTML5", "CSS", "SASS", "LESS"],
-        backEnd: ["Node.js", "Express"],
-        dataBase: ["Sequelize", "PostgreSQL"],
-    },
-    softSkills: ["creativity", "problem solving", "collaborative", "adaptability", "commitment", "communication"],
-    design: ["Photoshop", "Illustrator", "Ligthroom"],
-    projects: ["Countries", "La Catalina", "OLEA e-commerce"],
-    currentlyLearning: "React Native",
-    hobbies: ["travelling", "pilates", "photography", "surfing"]
-};
-```
+I'm a **Software Engineer** with 4+ years of experience building responsive, user-friendly web applications. I bring a unique blend of **technical expertise** and a **business-driven mindset**, thanks to my background in **Marketing and International Trade**.
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferrariconstanza@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constanzaferrari/)
+I specialize in building **scalable, performant, and modular frontend architectures** with technologies like React, Next.js, TypeScript, GraphQL, and Tailwind CSS. I thrive in **collaborative, fast-paced environments**, and enjoy tackling challenges with **autonomy, creativity, and adaptability**.
 
 ---
 
-### Tech & Tools Preference
+## 🛠️ Tech Stack
 
-<img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src = "https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript">
-<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm">
-
+- **Languages**: JavaScript, TypeScript, Node.js  
+- **Frontend**: React, Next.js, Redux, Tailwind CSS, HTML, CSS, SASS  
+- **Backend**: GraphQL, PostgreSQL, Sequelize, Express.js  
+- **CMS / Tools**: Contentful, Shopify (headless), Git, GitHub, Vercel, Insomnia, Linear, Figma  
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coferrari&show_icons=true&locale=en&layout=compact" alt="coferrari" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coferrari&show_icons=true&locale=en" alt="coferrari" /></p>
+## 📌 About My Work
 
-<!--
-**coferrari/coferrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most of my contributions are in **private repositories**, including:
 
-Here are some ideas to get you started:
+- Leading the **complete redesign** of an e-commerce platform with full frontend ownership  
+- Migrating to a **headless CMS** architecture using Contentful  
+- Building modular, mobile-first components and syncing store data with **Shopify**
 
--->
+---
+
+
+## 💼 More
+
+- [📄 Resume](#) <!-- optional: link to resume -->
+- [💼 LinkedIn](https://linkedin.com/in/tu-perfil)
+- [📬 Email me](mailto:ferrariconstanza@gmail.com)
+
+---
+
+_I'm currently open to new opportunities in remote-friendly teams working on meaningful products. Feel free to reach out!_
+
