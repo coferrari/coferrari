@@ -28,7 +28,7 @@ Most of my contributions are in **private repositories**, including:
 
 ## 💼 More
 
-- [📄 Resume](#) <!-- optional: link to resume -->
+- [📄 Resume – Constanza Ferrari](https://github.com/coferrari/coferrari/raw/main/Constanza%20Ferrari%20-%20Software%20Developer%20_%20Business%20Background%20in%20Marketing%20%26%20Foreign%20Trade%20Resume.pdf)
 - [💼 LinkedIn](https://linkedin.com/in/tu-perfil)
 - [📬 Email me](mailto:ferrariconstanza@gmail.com)
 
