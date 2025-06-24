@@ -1,6 +1,6 @@
 # Hi, I'm Constanza Ferrari 👋
 
-I'm a **Software Engineer** with 4+ years of experience building responsive, user-friendly web applications. I bring a unique blend of **technical expertise** and a **business-driven mindset**, thanks to my background in **Marketing and International Trade**.
+I'm a **Software Developer** with 4+ years of experience building responsive, user-friendly web applications. I bring a unique blend of **technical expertise** and a **business-driven mindset**, thanks to my background in **Marketing and International Trade**.
 
 I specialize in building **scalable, performant, and modular frontend architectures** with technologies like React, Next.js, TypeScript, GraphQL, and Tailwind CSS. I thrive in **collaborative, fast-paced environments**, and enjoy tackling challenges with **autonomy, creativity, and adaptability**.
 
